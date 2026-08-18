@@ -27,7 +27,7 @@ Seamless Export: Easily download your customized travel itinerary as a text file
 1. Clone the repository:
 
 Bash
-'''git clone https://github.com/Mehak-sr/TourBuddy-AI--A-multiagent-travel-planner.git
+'''git clone https://github.com/sahil-ks/TourBuddy-AI--A-multiagent-travel-planner.git
 cd TourBuddy-AI--A-multiagent-travel-planner'''
 
 2. Install dependencies:
